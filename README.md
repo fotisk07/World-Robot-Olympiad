@@ -1,5 +1,13 @@
-# WROapril2016
-Panhellenic Robotics Competition with the subject a trip to the ancient world
+# Robotics Competition Projects (2016-2017)
 
-With the team minders, we created a lego robot that has the same functionality as the odometer made my archimedes. As the robot moves his movement is being translated to a circular 
-one parallel to the ground, which can be calculated using a gyroscope.
+## Overview
+This repository consolidates three robotics projects developed for the Panhellenic Robotics Competition, showcasing innovation in autonomous systems, sensor integration, and mechanical design.
+
+### Projects:
+1. **WRO April 2016 - Archimedes' Odometer**: ERATOSTHENIS : A LEGO robot replicating an ancient odometer using gyroscope-based motion tracking.
+2. **WRO July 2016 - Vision-Based Recycling System**: VISION : An autonomous waste-sorting system utilizing computer vision and robotic manipulation.
+3. **WRO July 2017 - Autonomous Boat with Submarine Sensors**: ATLANTIS : A boat that deploys a mini-submarine for underwater data collection, transmitting results via Bluetooth.
+
+## Technologies & Tools
+- **Hardware:** LEGO Mindstorms, Pixy CMUcam5, Gyroscopes, Pneumatics, 3D-printed parts.
+- **Software:** LEGO EV3 Programming, PID Control, Bluetooth Communication.
